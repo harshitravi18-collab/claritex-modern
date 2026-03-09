@@ -1,0 +1,11 @@
+{
+  "cta": {
+    "startPilot": "Kostenlosen Pilot starten →",
+    "letsTalk": "Kontakt aufnehmen →",
+    "readMore": "Mehr erfahren →"
+  },
+  "footer": {
+    "tagline": "KI-gestützte Datenservices und BPO, neu aufgebaut als modernes React- und TypeScript-Projekt.",
+    "rights": "© 2026 Claritex. Alle Rechte vorbehalten."
+  }
+}

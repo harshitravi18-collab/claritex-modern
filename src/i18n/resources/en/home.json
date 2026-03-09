@@ -1,0 +1,733 @@
+{
+  "navigation": {
+    "services": "Services",
+    "hire": "Hire Resources",
+    "industries": "Industries",
+    "megaFooter": "Validate quality before you commit.",
+    "links": {
+      "services": "Services",
+      "caseStudies": "Case Studies",
+      "about": "About",
+      "insights": "Insights"
+    },
+    "hireItems": [
+      "Hire Web Researchers",
+      "Hire Data Entry Specialists",
+      "Hire Virtual Assistants",
+      "Hire Data Science Specialists",
+      "Hire AI Annotation Specialists",
+      "Hire Prompt Engineers"
+    ],
+    "industryItems": [
+      "Real Estate",
+      "Logistics & Transportation",
+      "eCommerce",
+      "ITES",
+      "Finance & Accounting",
+      "Energy & Utilities",
+      "Healthcare",
+      "Recruitment & Staffing"
+    ],
+    "mega": [
+      {
+        "heading": "🤖 AI Services",
+        "accent": "#00FFB2",
+        "items": [
+          {
+            "name": "AI Model Training",
+            "desc": "End-to-end dataset pipelines for ML models"
+          },
+          {
+            "name": "Data Annotation",
+            "desc": "Text, image, video and multimodal labelling"
+          },
+          {
+            "name": "Prompt Engineering",
+            "desc": "LLM fine-tuning and RLHF data prep"
+          },
+          {
+            "name": "AI Quality Assurance",
+            "desc": "Human-in-the-loop validation pipelines"
+          },
+          {
+            "name": "AI Strategy & Consulting",
+            "desc": "Architecture, deployment and responsible AI"
+          },
+          {
+            "name": "MLOps Data Support",
+            "desc": "Dataset versioning and retraining pipelines"
+          }
+        ]
+      },
+      {
+        "heading": "📦 Data Collection",
+        "accent": "#38BDF8",
+        "items": [
+          {
+            "name": "Data Extraction",
+            "desc": "Structured data from any digital source"
+          },
+          {
+            "name": "Data Mining",
+            "desc": "Pattern discovery across large datasets"
+          },
+          {
+            "name": "Web Research",
+            "desc": "Verified business intelligence gathering"
+          },
+          {
+            "name": "List Building",
+            "desc": "Targeted, verified lead lists"
+          },
+          {
+            "name": "Web Scraping",
+            "desc": "Automated, scalable data harvesting"
+          },
+          {
+            "name": "Property Data Collection",
+            "desc": "Real estate data for insights and analysis"
+          }
+        ]
+      },
+      {
+        "heading": "🗄️ Data Management",
+        "accent": "#C084FC",
+        "items": [
+          {
+            "name": "Data Enrichment",
+            "desc": "Append and enhance existing records"
+          },
+          {
+            "name": "Data Cleansing",
+            "desc": "Deduplication and accuracy correction"
+          },
+          {
+            "name": "Data Validation",
+            "desc": "Schema and accuracy verification"
+          },
+          {
+            "name": "Data Standardisation",
+            "desc": "Consistent formats across all systems"
+          },
+          {
+            "name": "Data Hygiene",
+            "desc": "Ongoing governance and maintenance"
+          },
+          {
+            "name": "Competitor Analysis",
+            "desc": "Market intelligence and benchmarking"
+          }
+        ]
+      },
+      {
+        "heading": "📄 Document Processing",
+        "accent": "#FB923C",
+        "items": [
+          {
+            "name": "Resume Formatting",
+            "desc": "Branded CV formatting at scale"
+          },
+          {
+            "name": "Invoice Processing",
+            "desc": "AP automation and audit workflows"
+          },
+          {
+            "name": "Freight Audit",
+            "desc": "Billing accuracy and carrier compliance"
+          },
+          {
+            "name": "Forms Processing",
+            "desc": "Structured extraction from forms"
+          },
+          {
+            "name": "Document Digitisation",
+            "desc": "Paper-to-digital conversion"
+          }
+        ]
+      },
+      {
+        "heading": "🏢 BPO & Outsourcing",
+        "accent": "#FBBF24",
+        "items": [
+          {
+            "name": "Back-Office Support",
+            "desc": "Admin, data entry and operations"
+          },
+          {
+            "name": "Customer Support BPO",
+            "desc": "Email, chat and ticket management"
+          },
+          {
+            "name": "Finance & Accounting",
+            "desc": "AP, AR, payroll and reporting"
+          },
+          {
+            "name": "HR & Recruitment Support",
+            "desc": "Screening, onboarding and admin"
+          },
+          {
+            "name": "Virtual Assistants",
+            "desc": "Dedicated remote staff solutions"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "eyebrow": "ISO 27001:2022 · GDPR Ready · AI + BPO · Trusted Globally",
+    "title": "AI-Powered Data & BPO Services Built to Scale.",
+    "description": "From AI training data and intelligent document processing to full back-office outsourcing, Claritex delivers accuracy, speed and compliance at enterprise scale.",
+    "secondaryCta": "Explore All Services",
+    "stats": [
+      {
+        "value": "1,200+",
+        "label": "Projects Delivered"
+      },
+      {
+        "value": "99.4%",
+        "label": "Accuracy SLA"
+      },
+      {
+        "value": "24 / 7",
+        "label": "Support"
+      }
+    ],
+    "badges": [
+      "Top Data Service — GoodFirms",
+      "ISO 27001:2022",
+      "1,200+ Projects",
+      "100+ Inc5000 Clients"
+    ]
+  },
+  "ticker": {
+    "items": [
+      "AI Model Training",
+      "Data Annotation",
+      "Prompt Engineering",
+      "Resume Formatting",
+      "Invoice Processing",
+      "Web Scraping",
+      "Data Cleansing",
+      "Virtual Assistants",
+      "Back-Office BPO",
+      "Freight Audit",
+      "ISO 27001:2022",
+      "GDPR Compliant",
+      "MLOps Support",
+      "AI Consulting",
+      "Document Digitisation",
+      "Finance & Accounting BPO"
+    ]
+  },
+  "servicesOverview": {
+    "label": "Our Services",
+    "title": "Intelligent Data Solutions for High-Performance Businesses",
+    "description": "Our specialists deliver scalable AI and BPO outsourcing to manage, optimise and leverage your data for real business results.",
+    "cards": [
+      {
+        "title": "AI Services",
+        "desc": "End-to-end AI model training, data annotation, prompt engineering, QA and strategy powering next-gen products with ground-truth quality."
+      },
+      {
+        "title": "Data Collection",
+        "desc": "Reliable data collection that captures and structures high-quality information from multiple sources for real-time insights and stronger decisions."
+      },
+      {
+        "title": "Data Management",
+        "desc": "Data management that organises, secures and optimises information so teams have reliable access and better operating leverage."
+      },
+      {
+        "title": "Document Processing",
+        "desc": "Intelligent document processing that digitises, extracts and validates critical records, boosting accuracy and accelerating workflows."
+      },
+      {
+        "title": "Data Entry & Solutions",
+        "desc": "Accurate, scalable data entry services that reduce manual work and help teams focus on growth and customer success."
+      },
+      {
+        "title": "Hire Remote Team",
+        "desc": "The right remote talent without the overhead: trained specialists aligned to your timezone, quality standards and business goals."
+      }
+    ]
+  },
+  "ai": {
+    "label": "Artificial Intelligence",
+    "title": "AI Services That Power Your Next-Gen Products",
+    "description": "We combine human expertise with intelligent tooling to deliver the training data, annotation and advisory services AI-driven companies need to build, train and scale.",
+    "cta": "Discuss Your AI Project →",
+    "items": [
+      {
+        "title": "AI Model Training",
+        "tag": "Foundation",
+        "desc": "High-quality annotated datasets and labelling pipelines built to spec, giving your ML models the data they need to generalise at scale."
+      },
+      {
+        "title": "Data Annotation",
+        "tag": "Core AI",
+        "desc": "Precision labelling for text, image, video, audio and multimodal datasets with human-in-the-loop QA at every stage."
+      },
+      {
+        "title": "Prompt Engineering",
+        "tag": "Generative AI",
+        "desc": "LLM fine-tuning support, prompt optimisation and RLHF data preparation for GPT, Claude, Llama and custom foundation models."
+      },
+      {
+        "title": "AI Quality Assurance",
+        "tag": "Validation",
+        "desc": "Dedicated review layers that catch what automated pipelines miss, keeping model outputs accurate, safe and production-ready."
+      },
+      {
+        "title": "AI Strategy & Consulting",
+        "tag": "Advisory",
+        "desc": "From proof-of-concept to production: strategy, model selection, compliance frameworks and responsible AI deployment."
+      },
+      {
+        "title": "MLOps Data Support",
+        "tag": "Ongoing",
+        "desc": "Ongoing dataset maintenance, versioning support and retraining pipelines to keep your models sharp as the world evolves."
+      }
+    ]
+  },
+  "bpo": {
+    "label": "Outsourcing & BPO",
+    "title": "All Outsourcing Support Functions Under One Roof",
+    "description": "Every back-office and data function your business needs, from a single specialist to a full dedicated team, delivered with accuracy, security and measurable SLAs.",
+    "cta": "View All Services →",
+    "items": [
+      {
+        "cat": "Data Collection & Research",
+        "desc": "Capture structured, verified data from any source: web, documents, APIs or custom research workflows.",
+        "svcs": [
+          "Data Extraction",
+          "Data Mining",
+          "Web Research",
+          "List Building",
+          "Web Scraping",
+          "Property Data Collection",
+          "Market Research",
+          "Lead Generation"
+        ]
+      },
+      {
+        "cat": "Data Management",
+        "desc": "Organise, cleanse, enrich and govern your data assets so every team has reliable, consistent and actionable information.",
+        "svcs": [
+          "Data Enrichment",
+          "Data Cleansing",
+          "Data Appending",
+          "Data Validation",
+          "Data Standardisation",
+          "Data Hygiene",
+          "Competitor Analysis",
+          "eCommerce Catalogue Management"
+        ]
+      },
+      {
+        "cat": "Document Processing",
+        "desc": "Intelligent extraction, digitisation and validation of any business document, eliminating manual handling at enterprise scale.",
+        "svcs": [
+          "Resume Formatting",
+          "Invoice Processing",
+          "Freight Audit",
+          "Forms Processing",
+          "Document Digitisation",
+          "Contract Extraction",
+          "Receipt Processing",
+          "Medical Record Processing"
+        ]
+      },
+      {
+        "cat": "Data Entry & Solutions",
+        "desc": "Accurate, scalable data entry across every vertical, from logistics and real estate to mortgage and eCommerce.",
+        "svcs": [
+          "Data Entry",
+          "Image Data Entry",
+          "Logistics Data Entry",
+          "Bill of Lading Entry",
+          "Appraisal & Valuation Entry",
+          "Mortgage Data Support",
+          "Real Estate Property Listing",
+          "eCommerce Product Data Entry"
+        ]
+      },
+      {
+        "cat": "Back-Office BPO",
+        "desc": "Full-function back-office outsourcing that keeps your operations running smoothly without the overhead of in-house headcount.",
+        "svcs": [
+          "Back-Office Administration",
+          "Customer Support",
+          "Finance & Accounting",
+          "Payroll Processing",
+          "HR & Recruitment Support",
+          "Order Management",
+          "Returns & Refund Processing",
+          "Compliance Reporting"
+        ]
+      },
+      {
+        "cat": "Hire Remote Resources",
+        "desc": "Dedicated, trained professionals aligned to your workflows, timezone and quality standards, ready to scale up or down on demand.",
+        "svcs": [
+          "Web Researchers",
+          "Data Entry Specialists",
+          "Virtual Assistants",
+          "Data Science Specialists",
+          "AI Annotation Specialists",
+          "Prompt Engineers",
+          "Logistics Coordinators",
+          "Finance & Accounting Assistants"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "label": "Our Company",
+    "title": "A Leading Data Services & BPO Partner Delivering Accuracy, Speed & Growth",
+    "paragraph1": "Founded to bridge the gap between cutting-edge AI capability and operational business need, Claritex has grown into a global team of specialists delivering accurate, secure and scalable services to enterprises across six continents.",
+    "paragraph2": "From AI model training and data annotation through to resume formatting, invoice processing and full back-office outsourcing, every service is built on domain expertise, rigorous quality and commitment to measurable outcomes.",
+    "badges": [
+      "ISO 27001:2022",
+      "GDPR Compliant",
+      "SOC 2 Ready",
+      "NDA Protected",
+      "24 / 7 Support"
+    ],
+    "stats": [
+      {
+        "value": "1,200+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "100+",
+        "label": "Inc5000 Clients"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "99.4%",
+        "label": "Client Retention"
+      }
+    ]
+  },
+  "caseStudies": {
+    "label": "Case Studies",
+    "title": "Breaking Boundaries, Building Dreams",
+    "cta": "Explore More →",
+    "items": [
+      {
+        "tag": "Recruitment BPO",
+        "title": "Resume Formatting for a UK Staffing Firm",
+        "desc": "A leading UK staffing firm outsourced all resume formatting to Claritex. Recruiters now focus entirely on placing talent, not fixing CVs.",
+        "stats": [
+          {
+            "v": "60%",
+            "l": "Faster Turnaround"
+          },
+          {
+            "v": "99.5%",
+            "l": "Accuracy Rate"
+          },
+          {
+            "v": "3×",
+            "l": "Recruiter Productivity"
+          }
+        ]
+      },
+      {
+        "tag": "Logistics AI",
+        "title": "AI-Powered Invoice Processing for Global Freight",
+        "desc": "A global freight operator replaced manual AP workflows with intelligent invoice extraction and gained real-time visibility across 12 countries.",
+        "stats": [
+          {
+            "v": "60%",
+            "l": "Faster Processing"
+          },
+          {
+            "v": "95%",
+            "l": "Error Reduction"
+          },
+          {
+            "v": "100%",
+            "l": "Real-Time Visibility"
+          }
+        ]
+      },
+      {
+        "tag": "Recruitment Automation",
+        "title": "Automating Resume Data from Handshake",
+        "desc": "A US recruitment firm automated candidate intake from Handshake, eliminating manual entry and standardising candidate profiles.",
+        "stats": [
+          {
+            "v": "80%",
+            "l": "Less Manual Effort"
+          },
+          {
+            "v": "99%",
+            "l": "Data Accuracy"
+          },
+          {
+            "v": "40%",
+            "l": "Faster Time-to-Hire"
+          }
+        ]
+      },
+      {
+        "tag": "Data Extraction",
+        "title": "Business Listing Extraction for Global Consulting",
+        "desc": "A UK consulting firm automated business listing extraction and achieved fully verified data with much broader market intelligence.",
+        "stats": [
+          {
+            "v": "100%",
+            "l": "Verified Accuracy"
+          },
+          {
+            "v": "50%",
+            "l": "Research Time Saved"
+          },
+          {
+            "v": "10×",
+            "l": "Market Coverage"
+          }
+        ]
+      }
+    ]
+  },
+  "process": {
+    "label": "Our Process",
+    "title": "Seamless Process, Great Results",
+    "items": [
+      {
+        "n": "01",
+        "title": "Requirement Assessment",
+        "desc": "We analyse your workflows, data volumes, compliance needs and accuracy benchmarks to design an optimised processing strategy."
+      },
+      {
+        "n": "02",
+        "title": "Secure Data Intake",
+        "desc": "Data is securely received, encrypted, validated and standardised to ensure integrity before processing begins."
+      },
+      {
+        "n": "03",
+        "title": "Intelligent Processing",
+        "desc": "Advanced automation combined with expert human validation ensures high accuracy, faster turnaround and seamless system integration."
+      },
+      {
+        "n": "04",
+        "title": "QA & Delivery",
+        "desc": "Multi-level quality checks guarantee precision and timely delivery, every output verified against your agreed SLA."
+      }
+    ]
+  },
+  "industries": {
+    "label": "Industries",
+    "title": "Smart Data Solutions for Smarter Industries",
+    "subLabel": "Industry Focus",
+    "cta": "Get Industry-Specific Support →",
+    "items": [
+      {
+        "name": "Real Estate",
+        "head": "Real Estate & Property Management",
+        "desc": "End-to-end data solutions for property professionals, from listings management to compliance documentation.",
+        "items": [
+          "Centralised property data management",
+          "Lease lifecycle management",
+          "Accurate listings control",
+          "Compliance-ready documentation",
+          "Property data collection & research",
+          "Appraisal & valuation data entry"
+        ]
+      },
+      {
+        "name": "Logistics & Transport",
+        "head": "Logistics BPO Support Services",
+        "desc": "Accurate data and streamlined operations for logistics and supply chain businesses.",
+        "items": [
+          "Freight data management",
+          "Invoice audit processing",
+          "Shipment documentation support",
+          "Rate and tariff validation",
+          "Carrier reconciliation services",
+          "Bill of lading data entry"
+        ]
+      },
+      {
+        "name": "eCommerce",
+        "head": "BPO Services for eCommerce",
+        "desc": "Scalable operations support that keeps your store running and your customers satisfied.",
+        "items": [
+          "Product catalogue management",
+          "Order processing support",
+          "Customer service outsourcing",
+          "Marketplace operations management",
+          "Returns and refunds processing",
+          "eCommerce product data entry"
+        ]
+      },
+      {
+        "name": "Finance & Accounting",
+        "head": "Finance & Accounting Outsourcing",
+        "desc": "Precision financial operations that improve accuracy, compliance and cost efficiency.",
+        "items": [
+          "Accounts payable management",
+          "Accounts receivable processing",
+          "General ledger accounting",
+          "Financial reporting compliance",
+          "Payroll and tax support",
+          "Invoice processing automation"
+        ]
+      },
+      {
+        "name": "Healthcare",
+        "head": "BPO Services for Healthcare",
+        "desc": "Secure, compliant healthcare BPO delivering accurate data and improved patient and provider outcomes.",
+        "items": [
+          "HIPAA-compliant data management",
+          "Medical billing support",
+          "Claims processing accuracy",
+          "Provider workflow optimisation",
+          "Revenue cycle efficiency",
+          "Medical image annotation for AI"
+        ]
+      },
+      {
+        "name": "Recruitment & Staffing",
+        "head": "Recruitment & Staffing Support",
+        "desc": "Purpose-built BPO for agencies and in-house talent teams that need speed and consistency at scale.",
+        "items": [
+          "Resume formatting at scale",
+          "Candidate data processing",
+          "ATS-ready CV standardisation",
+          "Talent pipeline management",
+          "Onboarding documentation",
+          "Job posting & listing support"
+        ]
+      },
+      {
+        "name": "Energy & Utilities",
+        "head": "BPO for Energy & Utilities",
+        "desc": "Specialised data services for energy providers managing complex, regulated operational environments.",
+        "items": [
+          "Meter data validation",
+          "Billing and revenue assurance",
+          "Regulatory compliance support",
+          "Asset and outage data management",
+          "Customer service operations",
+          "Data enrichment for utilities"
+        ]
+      },
+      {
+        "name": "ITES",
+        "head": "BPO Support for the ITES Industry",
+        "desc": "Scalable BPO delivering accuracy, compliance and operational excellence for ITES organisations globally.",
+        "items": [
+          "Data processing domain expertise",
+          "Compliance-driven service delivery",
+          "Cost-optimised operations management",
+          "Secure scalable resource models",
+          "SLA-focused performance governance",
+          "Technology-enabled workflows"
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "Client Feedback",
+    "title": "What Our Partners Say",
+    "items": [
+      {
+        "av": "CA",
+        "name": "Craig Archbold",
+        "role": "Director, RecruitPro UK",
+        "q": "We count on Claritex for all our resume processing. The consistency and quality is exactly what a high-volume recruitment agency needs."
+      },
+      {
+        "av": "JO",
+        "name": "James Okafor",
+        "role": "VP Operations, FreightCore",
+        "q": "Our AP team spent three days per week on invoices. Now it is a few hours. The ROI was visible within the first month."
+      },
+      {
+        "av": "SP",
+        "name": "Shira Papir",
+        "role": "COO, GlobalStaff",
+        "q": "Claritex fitted every deadline and exceeded our quality expectations. We consider them a core part of our operational squad."
+      },
+      {
+        "av": "PN",
+        "name": "Priya Nair",
+        "role": "Head of Data, ShopAU",
+        "q": "None of our previous data partners matched the combination of speed, accuracy and genuine partnership that Claritex delivers."
+      }
+    ]
+  },
+  "insights": {
+    "label": "Insights & Ideas",
+    "title": "The Ultimate Resource",
+    "cta": "View All Posts →",
+    "items": [
+      {
+        "date": "26 FEB 2026",
+        "tag": "AI & Automation",
+        "title": "Where AI Makes Mistakes in Invoice Validation — and How Humans Fix Them",
+        "blurb": "Automated invoice processing is powerful, but not infallible. Here is how human-in-the-loop review prevents costly errors that slip through."
+      },
+      {
+        "date": "16 FEB 2026",
+        "tag": "Data Management",
+        "title": "How to Cleanse Data in Excel Like a Pro: Step-by-Step Guide",
+        "blurb": "Dirty data costs businesses billions. This practical guide walks you through professional-grade data cleansing techniques you can apply today."
+      },
+      {
+        "date": "08 FEB 2026",
+        "tag": "AI Strategy",
+        "title": "Human-in-the-Loop: Why 100% AI Data Entry Fails in Real Estate",
+        "blurb": "Real estate data is messy, contextual and nuanced. Here is why full automation falls short and why hybrid models consistently win."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Turn Your Results Into Our Next Milestone",
+    "description": "Start with a free pilot. No lock-in, no risk — validate our quality before you commit.",
+    "button": "Start Your Free Pilot →"
+  },
+  "contact": {
+    "label": "Get in Touch",
+    "title": "Drop Us a Line Here",
+    "description": "Whether you need AI training data, full BPO support or a single back-office function outsourced, we will design the right solution for your business.",
+    "info": [
+      {
+        "icon": "📧",
+        "label": "Email",
+        "value": "hello@claritex.com"
+      },
+      {
+        "icon": "🌐",
+        "label": "Website",
+        "value": "www.claritex.com"
+      },
+      {
+        "icon": "💬",
+        "label": "Response Time",
+        "value": "Response within 1 business day"
+      },
+      {
+        "icon": "🕐",
+        "label": "Availability",
+        "value": "24 / 7 Operations"
+      }
+    ],
+    "calloutTitle": "✓ Validate quality before you commit",
+    "calloutText": "Every new engagement starts with a free pilot. Send a sample and we will show you exactly what we can deliver before you commit.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "msg": "Message",
+      "submit": "Send Message →",
+      "success": "Thanks — your message has been captured in the demo state."
+    }
+  }
+}

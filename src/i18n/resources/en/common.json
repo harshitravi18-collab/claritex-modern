@@ -1,0 +1,11 @@
+{
+  "cta": {
+    "startPilot": "Start a Free Pilot →",
+    "letsTalk": "Let's Talk →",
+    "readMore": "Read More →"
+  },
+  "footer": {
+    "tagline": "AI-powered data services and BPO delivery, rebuilt as a modern React + TypeScript project.",
+    "rights": "© 2026 Claritex. All rights reserved."
+  }
+}
