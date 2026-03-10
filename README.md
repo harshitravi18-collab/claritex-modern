@@ -1,6 +1,6 @@
 # Claritex Modern
 
-A refactored version of the original single-file JSX marketing site, rebuilt with:
+Marketing site, built with:
 
 - React 19
 - TypeScript
