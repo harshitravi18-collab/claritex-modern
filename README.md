@@ -14,6 +14,9 @@ Marketing site, built with:
 pnpm install
 pnpm run dev
 ```
+## Live Demo
+
+Hosted URL: https://harshitravi18-collab.github.io/claritex-modern/
 
 ## Build
 
